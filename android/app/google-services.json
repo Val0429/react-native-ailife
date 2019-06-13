@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "87668557996",
+    "firebase_url": "https://ailife.firebaseio.com",
+    "project_id": "ailife",
+    "storage_bucket": "ailife.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87668557996:android:ce0835266a35bf17",
+        "android_client_info": {
+          "package_name": "com.ailife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87668557996-00bitnnnf8di9s2vvse4o2lb61dc4rsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNNShpqROi9yeDtqBQH7Zl-u2iCmuSXH8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

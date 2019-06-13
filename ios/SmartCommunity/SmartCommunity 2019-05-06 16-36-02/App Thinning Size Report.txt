@@ -1,0 +1,57 @@
+
+App Thinning Size Report for All Variants of SmartCommunity
+
+Variant: SmartCommunity-09579E37-6007-4644-B4AB-895093543F74.ipa
+Supported variant descriptors: [device: iPhone5,4, os-version: 9], [device: iPod5,1, os-version: 9], [device: iPhone4,1, os-version: 9], [device: iPhone5,1, os-version: 9], [device: iPhone5,2, os-version: 9], and [device: iPhone5,3, os-version: 9]
+App + On Demand Resources size: 70.9 MB compressed, 81.5 MB uncompressed
+App size: 70.9 MB compressed, 81.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: SmartCommunity-3052F2EC-805F-4483-9F64-BFE182C3D721.ipa
+Supported variant descriptors: [device: iPhone6,2, os-version: 12], [device: iPhone10,4, os-version: 11], [device: iPod7,1, os-version: 9], [device: iPhone9,1, os-version: 10], [device: iPhone6,2, os-version: 9], [device: iPhone8,1, os-version: 12], [device: iPod7,1, os-version: 12], [device: iPhone8,4, os-version: 9], [device: iPhone6,1, os-version: 9], [device: iPhone10,1, os-version: 11], [device: iPhone8,1, os-version: 9], [device: iPhone7,2, os-version: 9], [device: iPhone10,1, os-version: 12], [device: iPhone7,2, os-version: 12], [device: iPhone9,1, os-version: 12], [device: iPhone9,3, os-version: 12], [device: iPhone10,4, os-version: 12], [device: iPhone9,3, os-version: 10], [device: iPhone8,4, os-version: 12], [device: iPhone9,3, os-version: 11], [device: iPhone9,1, os-version: 11], and [device: iPhone6,1, os-version: 12]
+App + On Demand Resources size: 70.8 MB compressed, 81.5 MB uncompressed
+App size: 70.8 MB compressed, 81.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: SmartCommunity-3D511D49-EDEB-450A-8B29-A58EAF2215E2.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12]
+App + On Demand Resources size: 70.9 MB compressed, 81.5 MB uncompressed
+App size: 70.9 MB compressed, 81.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: SmartCommunity-4EABFF4B-CA1D-41DF-B8F7-35441EDAE4FD.ipa
+Supported variant descriptors: [device: iPhone9,4, os-version: 11], [device: iPhone11,4, os-version: 12], [device: iPhone11,6, os-version: 12], [device: iPhone10,2, os-version: 12], [device: iPhone10,6, os-version: 12], [device: iPhone9,4, os-version: 10], [device: iPhone11,2, os-version: 12], [device: iPhone7,1, os-version: 9], [device: iPhone10,5, os-version: 12], [device: iPhone10,6, os-version: 11], [device: iPhone9,2, os-version: 11], [device: iPhone10,3, os-version: 12], [device: iPhone9,4, os-version: 12], [device: iPhone10,3, os-version: 11], [device: iPhone9,2, os-version: 10], [device: iPhone8,2, os-version: 9], [device: iPhone10,2, os-version: 11], [device: iPhone9,2, os-version: 12], [device: iPhone8,2, os-version: 12], and [device: iPhone10,5, os-version: 11]
+App + On Demand Resources size: 70.9 MB compressed, 81.5 MB uncompressed
+App size: 70.9 MB compressed, 81.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: SmartCommunity-62EDE518-AFC9-411A-9C67-219A1CC08C24.ipa
+Supported variant descriptors: [device: iPad5,3, os-version: 12], [device: iPad5,3, os-version: 9], [device: iPad7,5, os-version: 11], [device: iPad7,4, os-version: 11], [device: iPad4,6, os-version: 12], [device: iPad4,4, os-version: 9], [device: iPad6,7, os-version: 12], [device: iPad4,2, os-version: 12], [device: iPad6,3, os-version: 9], [device: iPad6,3, os-version: 12], [device: iPad8,1, os-version: 12], [device: iPad8,4, os-version: 12], [device: iPad7,3, os-version: 10], [device: iPad7,4, os-version: 12], [device: iPad8,5, os-version: 12], [device: iPad6,8, os-version: 12], [device: iPad4,6, os-version: 9], [device: iPad7,3, os-version: 12], [device: iPad6,12, os-version: 12], [device: iPad7,4, os-version: 10], [device: iPad4,9, os-version: 12], [device: iPad4,3, os-version: 9], [device: iPad6,7, os-version: 9], [device: iPad7,6, os-version: 11], [device: iPad6,12, os-version: 11], [device: iPad6,4, os-version: 12], [device: iPad4,8, os-version: 12], [device: iPad5,4, os-version: 12], [device: iPad7,3, os-version: 11], [device: iPad4,1, os-version: 12], [device: iPad5,1, os-version: 12], [device: iPad5,1, os-version: 9], [device: iPad8,7, os-version: 12], [device: iPad5,4, os-version: 9], [device: iPad4,3, os-version: 12], [device: iPad7,6, os-version: 12], [device: iPad4,5, os-version: 9], [device: iPad4,2, os-version: 9], [device: iPad7,2, os-version: 12], [device: iPad5,2, os-version: 12], [device: iPad4,9, os-version: 9], [device: iPad6,12, os-version: 10], [device: iPad7,1, os-version: 11], [device: iPad4,8, os-version: 9], [device: iPad8,3, os-version: 12], [device: iPad8,2, os-version: 12], [device: iPad5,2, os-version: 9], [device: iPad6,11, os-version: 10], [device: iPad6,11, os-version: 11], [device: iPad8,8, os-version: 12], [device: iPad6,4, os-version: 9], [device: iPad7,2, os-version: 11], [device: iPad4,1, os-version: 9], [device: iPad8,6, os-version: 12], [device: iPad7,1, os-version: 10], [device: iPad7,1, os-version: 12], [device: iPad4,7, os-version: 9], [device: iPad4,7, os-version: 12], [device: iPad6,8, os-version: 9], [device: iPad7,2, os-version: 10], [device: iPad4,4, os-version: 12], [device: iPad4,5, os-version: 12], [device: iPad6,11, os-version: 12], and [device: iPad7,5, os-version: 12]
+App + On Demand Resources size: 70.8 MB compressed, 81.5 MB uncompressed
+App size: 70.8 MB compressed, 81.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: SmartCommunity-67A044D0-2418-46FA-A292-6F80A51C2067.ipa
+Supported variant descriptors: [device: iPad3,2, os-version: 9], [device: iPad3,3, os-version: 9], [device: iPad3,5, os-version: 9], [device: iPad3,4, os-version: 9], [device: iPad3,1, os-version: 9], and [device: iPad3,6, os-version: 9]
+App + On Demand Resources size: 70.9 MB compressed, 81.5 MB uncompressed
+App size: 70.9 MB compressed, 81.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: SmartCommunity-86EB1C6B-9C9C-419A-B1BB-C88301167DDB.ipa
+Supported variant descriptors: [device: iPad2,4, os-version: 9], [device: iPad2,2, os-version: 9], [device: iPad2,1, os-version: 9], [device: iPad2,3, os-version: 9], [device: iPad2,6, os-version: 9], [device: iPad2,5, os-version: 9], and [device: iPad2,7, os-version: 9]
+App + On Demand Resources size: 70.9 MB compressed, 81.5 MB uncompressed
+App size: 70.9 MB compressed, 81.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: SmartCommunity.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 72.6 MB compressed, 81.5 MB uncompressed
+App size: 72.6 MB compressed, 81.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed

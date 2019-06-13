@@ -1,0 +1,14 @@
+
+{
+  "presets": [
+    "module:metro-react-native-babel-preset",
+    "@babel/typescript"
+  ],
+  "plugins": [
+    "@babel/transform-flow-strip-types",
+    ["@babel/plugin-proposal-decorators", {"legacy": true}],
+    ["@babel/proposal-class-properties", {"loose": true}],
+    "@babel/proposal-object-rest-spread"
+  ]
+}
+
